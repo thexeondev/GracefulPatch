@@ -1,0 +1,7 @@
+.{
+    .name = .graceful_patch,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.17.0",
+    .paths = .{""},
+    .fingerprint = 0xf10210c93ac61337,
+}
